@@ -1,0 +1,18 @@
+*
+{
+    font-family: Arial, sans-serif;
+    background: linear-gradient( to left, #eccd07, #099af5);
+}
+h1
+{
+    background: transparent;
+    font-size: 80px;
+    color: rgb(38, 255, 0);
+    margin-top: 300px;
+}
+h1:hover
+{
+    transition: 2s;
+    color: rgb(19, 124, 245);
+    cursor: pointer;
+}
